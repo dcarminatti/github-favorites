@@ -2,6 +2,8 @@
 
 Bem-vindo ao GitHub Favorites SPA, uma Single Page Application (SPA) simples desenvolvida com HTML, CSS e JavaScript. Esta aplicação permite que você crie uma lista de perfis do GitHub como seus favoritos e armazena essa lista localmente usando o `localStorage`.
 
+![image](https://github.com/dcarminatti/github-favorites/assets/68664365/8b02a77f-12f9-4db2-b090-dc6e47addd0a)
+
 ## Recursos
 
 ### Adicionar Perfil Github à lista
